@@ -1,6 +1,5 @@
 package unidade3;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class uni3ex016 {
@@ -8,7 +7,6 @@ public class uni3ex016 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        //DecimalFormat f_02 = new DecimalFormat(" 0");
 
         System.out.println("Digite o valor da compra");
         double valorCompra = scan.nextInt();

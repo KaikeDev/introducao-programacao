@@ -23,7 +23,7 @@ public class uni3ex013 {
        double areaParede = altura * comprimento;
 
        double valorGasto = (areaParede * valorAzulejo)*9;
-       System.out.println("O valor gasto com azulejos é de: "+valorGasto);
+       System.out.println("O valor gasto com azulejos é de: "+f_02.format(valorGasto));
 
        scan.close();
     }
