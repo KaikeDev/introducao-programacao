@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import javax.swing.plaf.FontUIResource;
 
-public class uni3ex011 {
+public class Uni3Exe11 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

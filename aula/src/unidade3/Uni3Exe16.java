@@ -2,7 +2,7 @@ package unidade3;
 
 import java.util.Scanner;
 
-public class uni3ex016 {
+public class Uni3Exe16 {
 
     public static void main(String[] args) {
 
@@ -30,8 +30,8 @@ public class uni3ex016 {
         double nota1 = troco;
 
         System.out.println("Notas de 100: " + nota100);
-        System.out.println(" notas de 10: " + nota10);
-        System.out.println(" notas de 1: " + nota1);
+        System.out.println(" Notas de 10: " + nota10);
+        System.out.println(" Notas de 1: " + nota1);
 
         scan.close();
     }

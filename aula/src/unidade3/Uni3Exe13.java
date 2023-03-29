@@ -3,7 +3,7 @@ package unidade3;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class uni3ex013 {
+public class Uni3Exe13 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
