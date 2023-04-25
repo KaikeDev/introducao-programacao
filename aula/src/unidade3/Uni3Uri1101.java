@@ -1,7 +1,5 @@
 package unidade3;
 
-import java.text.DecimalFormat;
-
 import java.util.Scanner;
 
 public class Uni3Uri1101 {
