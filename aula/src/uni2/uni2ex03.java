@@ -1,6 +1,5 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class uni2ex03 {
     
