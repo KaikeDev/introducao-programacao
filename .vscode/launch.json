@@ -1,0 +1,931 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Uni5Exe34",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe34",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe33",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe33",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "questao1",
+            "request": "launch",
+            "mainClass": "prova.questao1",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "questao2",
+            "request": "launch",
+            "mainClass": "prova.questao2",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex01",
+            "request": "launch",
+            "mainClass": "uni2ex01",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex010",
+            "request": "launch",
+            "mainClass": "uni2ex010",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex011",
+            "request": "launch",
+            "mainClass": "uni2ex011",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex012",
+            "request": "launch",
+            "mainClass": "uni2ex012",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex013",
+            "request": "launch",
+            "mainClass": "uni2ex013",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex014",
+            "request": "launch",
+            "mainClass": "uni2ex014",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex015",
+            "request": "launch",
+            "mainClass": "uni2ex015",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex016",
+            "request": "launch",
+            "mainClass": "uni2ex016",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex02",
+            "request": "launch",
+            "mainClass": "uni2ex02",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex03",
+            "request": "launch",
+            "mainClass": "uni2ex03",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex04",
+            "request": "launch",
+            "mainClass": "uni2ex04",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex05",
+            "request": "launch",
+            "mainClass": "uni2ex05",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex06",
+            "request": "launch",
+            "mainClass": "uni2ex06",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex07",
+            "request": "launch",
+            "mainClass": "uni2ex07",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex08",
+            "request": "launch",
+            "mainClass": "uni2ex08",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "uni2ex09",
+            "request": "launch",
+            "mainClass": "uni2ex09",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe01",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe01",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe02",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe02",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe03",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe03",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe04",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe04",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe05",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe05",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe06",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe06",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe07",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe07",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe08",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe08",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe09",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe09",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe10",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe10",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe11",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe11",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe12",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe12",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe13",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe13",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe14",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe14",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe15",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe15",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Exe16",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Exe16",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1001",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1001",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1002",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1002",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1004",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1004",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1005",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1005",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1007",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1007",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1008",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1008",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1009",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1009",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1010",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1010",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1012",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1012",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1015",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1015",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1016",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1016",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1018",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1018",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1019",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1019",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1020",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1020",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1021",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1021",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1046",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1046",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1050",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1050",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1051",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1051",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1064",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1064",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1101",
+            "request": "launch",
+            "mainClass": "unidade3.Uni3Uri1101",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe01",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe01",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe02",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe02",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe03",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe03",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe04",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe04",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe05",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe05",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe06",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe06",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe07",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe07",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe08",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe08",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe09",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe09",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe10",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe10",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe11",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe11",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe12",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe12",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe13",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe13",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe14",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe14",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe15",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe15",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe16",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe16",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe17",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe17",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe18",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe18",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe19",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe19",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe20",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe20",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe21",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe21",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe22",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe22",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe23",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe23",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe24",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe24",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe25",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe25",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe26",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe26",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe27",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Exe27",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1035",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1035",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1037",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1037",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1038",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1038",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1041",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1041",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1042",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1042",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1046",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1046",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1050",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1050",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1387",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1387",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1546",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri1546",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri2444",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri2444",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri2786",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri2786",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri3055",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri3055",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri3058",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri3058",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri3091",
+            "request": "launch",
+            "mainClass": "unidade4.Uni4Uri3091",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "exercicio1",
+            "request": "launch",
+            "mainClass": "unidade4.exercicio1",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe01",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe01",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe02",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe02",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe03",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe03",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe04",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe04",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe05",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe05",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe06",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe06",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe07",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe07",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe08",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe08",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe09",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe09",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe10",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe10",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe11",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe11",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe12",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe12",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe13",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe13",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe14",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe14",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe15",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe15",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe16",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe16",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe17",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe17",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe18",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe18",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe19",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe19",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe20",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe20",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe21",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe21",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe22",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe22",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe23",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe23",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe24",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe24",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe25",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe25",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe26",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe26",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe27",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe27",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe28",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe28",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe29",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe29",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe30",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe30",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe31",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe31",
+            "projectName": "Introducao a Programacao_2340e34f"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe32",
+            "request": "launch",
+            "mainClass": "unidade5.Uni5Exe32",
+            "projectName": "Introducao a Programacao_2340e34f"
+        }
+    ]
+}
