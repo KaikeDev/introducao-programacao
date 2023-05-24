@@ -1,4 +1,4 @@
-package unidade3;
+package beecrowd;
 import java.util.Scanner;
 
 public class Uni3Uri1001 {

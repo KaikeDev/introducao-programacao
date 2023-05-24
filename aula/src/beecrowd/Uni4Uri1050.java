@@ -1,5 +1,4 @@
-package unidade4;
-
+package beecrowd;
 import java.util.Scanner;
 
 public class Uni4Uri1050 {
